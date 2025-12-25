@@ -10,10 +10,11 @@ Este es el repositorio para seguir el curso de TypeScript. Aquí iremos anotando
 - [x] Funciones
 - [x] Objetos básicos
 - [x] Arrays
-- [ ] Interfaces y Tipos
-- [ ] Enums
-- [ ] Clases
-- [ ] Genéricos
-- [ ] Decoradores
+- [x] Interfaces y Tipos
+- [x] Enums
+- [x] Clases
+- [x] Promesas y APIs
+- [x] Genéricos
+- [x] Decoradores
 
 ---
